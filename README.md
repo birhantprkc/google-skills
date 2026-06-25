@@ -59,6 +59,21 @@ repo to install.
     - [Operational excellence](./skills/cloud/google-cloud-waf-operational-excellence)
     - [Performance optimization](./skills/cloud/google-cloud-waf-performance-optimization)
     - [Sustainability](./skills/cloud/google-cloud-waf-sustainability)
+-   **Google Advertising and Measurement**:
+    -   **Data Manager API**:
+        -   [Audience Ingestion](./skills/ads/data-manager-api/data-manager-api-audience-ingestion)
+        -   [Event Ingestion](./skills/ads/data-manager-api/data-manager-api-event-ingestion)
+    -   **Google Ads API**:
+        -   [MCP Setup](./skills/ads/google-ads-api/google-ads-api-mcp-setup)
+        -   [Quickstart](./skills/ads/google-ads-api/google-ads-api-quickstart)
+    -   **Google Mobile Ads**:
+        -   [Banner Ads](./skills/ads/google-mobile-ads/google-mobile-ads-banner)
+        -   [Get Started](./skills/ads/google-mobile-ads/google-mobile-ads-get-started)
+        -   [Interstitial Ads](./skills/ads/google-mobile-ads/google-mobile-ads-interstitial)
+        -   [Migrate to GMA Next-Gen SDK (Android)](./skills/ads/google-mobile-ads/google-mobile-ads-android-migrate-to-next-gen)
+        -   [Rewarded Ads](./skills/ads/google-mobile-ads/google-mobile-ads-rewarded)
+    -   **Interactive Media Ads (IMA)**:
+        -   [SDK Basics](./skills/ads/interactive-media-ads/ima-sdk-basics)
 
 ## Additional Google skills
 
