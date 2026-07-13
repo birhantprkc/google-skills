@@ -59,6 +59,7 @@ repo to install.
   -   [**GKE Storage**](./skills/cloud/gke-storage)
   -   [**GKE Upgrades & Maintenance**](./skills/cloud/gke-upgrades)
   -   [**GKE Workload Scaling**](./skills/cloud/gke-scaling)
+  -   [**Google Cloud global external Application Load Balancer Configuration Skill**](./skills/cloud/google-cloud-global-frontend-configuration)
   -   [**Google Cloud Networking Observability Expert**](./skills/cloud/google-cloud-networking-observability)
 - **Databases and analytics**
   -   [**AlloyDB Basics**](./skills/cloud/alloydb-basics)
